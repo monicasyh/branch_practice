@@ -1,3 +1,3 @@
-print('Hello Monica!')
+print('HELLO!')
 
 print('Happy INFO201')
